@@ -21,7 +21,7 @@ After that, run all migrations and seed the database:<br>
 Or if your database is fresh and you haven't done any work yet, then it's safe to call the commands in a single line:M<br>
 ```php artisan migrate:refresh --seed```
 
-## Extra Features
+## Credits
 - [Laravel](https://github.com/laravel/laravel)
 - [Adminmart](https://github.com/adminmart)
 - [LaravelCollective HTML](https://github.com/laravelcollective/html)
